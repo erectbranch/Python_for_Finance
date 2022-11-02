@@ -3,7 +3,7 @@
 <h1 align="center">
   <p align="center">파이썬을 활용한 금융 분석</p>
   <a href="https://docusaurus.io">
-    <img width="50%" src="cover.jpg" />
+    <img width="50%" src="cover.jpeg" />
   </a>
 </h1>
   
